@@ -14,4 +14,5 @@ module.exports = function(sequelize, DataTypes){
       type:DataTypes.DATE,
     }
   });
+  return NewBurger;
 }
