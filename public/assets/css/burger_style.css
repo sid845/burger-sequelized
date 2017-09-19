@@ -1,0 +1,32 @@
+li {
+  padding: 5px;
+  margin: 5px;
+}
+body{
+  background:darkred;
+}
+.jumbotron{
+  background:orange;
+  margin-top: 30px;
+}
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: black;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+.img{
+  height:250px;
+  width: 350px;
+  border-radius:20%;
+}
+div{
+  text-align: center;
+}
